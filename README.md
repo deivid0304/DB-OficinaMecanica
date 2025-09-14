@@ -38,6 +38,9 @@ Este repositório contém o **diagrama ERD (Entidade-Relacionamento)** para o si
 ## 📊 Diagrama ERD
 ![Diagrama ERD](ERD_Oficina.png)
 
+## 💾 Script SQL (DDL)
+Baixe o script de criação das tabelas: [DDL.sql](DDL.sql)
+
 ## 🚀 Como usar
 O modelo pode ser implementado em qualquer SGBD relacional (**MySQL, PostgreSQL, SQL Server**).  
 Basta utilizar o arquivo `DDL.sql` com os scripts de criação de tabelas.  
